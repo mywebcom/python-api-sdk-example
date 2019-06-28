@@ -13,3 +13,5 @@ _build
 distribute-*
 .venv
 .idea
+.cache
+.git
